@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=chansol moon%20&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=ChansolMoon%20&fontSize=90)
 
 
 ## 🔧Stack
