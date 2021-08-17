@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 ![moongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mooncs&count_private=true&show_icons=true&theme=radical)
 
 <!--
