@@ -10,7 +10,7 @@
 
 ![moongs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mooncs&count_private=true&show_icons=true&theme=onedark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojeong33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mooncs&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **mooncs/mooncs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
